@@ -1,0 +1,111 @@
+Sector:
+	Communications Sector
+	Computer Service Industry Sector
+	Distribution Sector
+	Enterprise
+	Financial Services Sector
+	Industrial Sector
+	Mid market
+	Public Sector
+	Unassigned Sector
+	Unknown
+
+Contract Country:
+	Afghanistan
+	American Samoa
+	Angola
+	Anguilla
+	Argentina
+	Armenia
+	Australia
+	Austria
+	Bahrain
+	Belgium
+	Brazil
+	Burkina Faso
+	Canada
+	Chile
+	China
+	Colombia
+	Croatia
+	Cyprus
+	Czech Republic
+	Denmark
+	Ecuador
+	Finland
+	France
+	Germany
+	Ghana
+	Greece
+	Hong Kong
+	Hungary
+	India
+	Indonesia
+	Ireland
+	Israel
+	Italy
+	Japan
+	Kazakhstan
+	Kenya
+	Korea, Republic of
+	Kuwait
+	Lithuania
+	Luxembourg
+	Malaysia
+	Mexico
+	Morocco
+	Netherlands
+	New Zealand
+	Norway
+	Oman
+	Peru
+	Philippines
+	Poland
+	Portugal
+	Qatar
+	Romania
+	Russian Federation
+	Saudi Arabia
+	Singapore
+	Slovakia
+	South Africa
+	Spain
+	Sweden
+	Switzerland
+	Taiwan
+	Thailand
+	Turkey
+	Ukraine
+	United Arab Emirates
+	United Kingdom
+	United States
+	Uruguay
+	Venezuela
+
+Contract Type:
+	Inactive
+	Production
+	Test
+
+Request Type:
+	Catalog only
+	Catalog Request Change
+	Predefined Solution Request
+	Project Change Request
+	Request For Serive(RFS)
+	Unknown
+
+Proposal Pricing Term:
+	Firm(Best and Final)
+	Non-binding
+	Unknown
+
+Complexity:
+	Catalog Request Change
+	Complex
+	Ctlg Only
+	Medium
+	PDS
+	Project Change Request
+	Simple
+	Unknown
